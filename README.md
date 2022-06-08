@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by        : Marinto Richee J
-Registration Number : 212220230031
+Developed by        : Gowri M
+Registration Number : 212220230019
 */
 ```
 ### MainActivity.java
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         i.setBackgroundDrawable(new BitmapDrawable(bg));
         Canvas canvas = new Canvas(bg);
         Paint paint = new Paint();
-        paint.setColor(Color.BLACK);
+        paint.setColor(Color.RED);
         paint.setTextSize(50);
         canvas.drawText("Rectangle", 420, 150, paint);
         canvas.drawRect(400, 200, 650, 700, paint);
@@ -89,6 +89,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT:
+
+![Uploading Screenshot (123).png…]()
+
 
 ## RESULT:
 Thus a Simple Android Application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
