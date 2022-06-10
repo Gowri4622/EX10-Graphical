@@ -90,7 +90,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![Uploading Screenshot (123).png…]()
+![Screenshot (124)](https://user-images.githubusercontent.com/75235455/172983584-c236972b-2995-409d-bda2-4499078484c8.png)
+
 
 
 ## RESULT:
