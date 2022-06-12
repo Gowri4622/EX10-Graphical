@@ -1,6 +1,6 @@
-
-# Ex.No: 10 Design an application that draws basic graphical primitives on the screen.
-
+### EX NO : 10
+### DATE  : 
+# <p align="center"> Design an application that draws basic graphical primitives on the screen </p>
 
 ## AIM:
 
